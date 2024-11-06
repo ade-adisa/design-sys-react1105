@@ -1,4 +1,4 @@
-# LoginForm Component
+# Login Form
 
 A robust and customizable login form component built with React, designed to fit seamlessly into a design system. This component prioritizes flexibility, accessibility, and theming options to cater to a variety of use cases.
 
